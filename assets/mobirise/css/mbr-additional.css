@@ -2838,7 +2838,7 @@ body {
 .cid-rf9YmLd3Ci {
   padding-top: 135px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/texture-bw-600x600.png");
+  background-image: url("../../../assets/images/dku-repairs-1-1117x474.jpg");
 }
 .cid-rf9YmLd3Ci H1 {
   color: #149dcc;
@@ -2923,6 +2923,21 @@ body {
 }
 .cid-rfeqhU8DOl .card-title {
   text-align: center;
+}
+.cid-rgJio1ivR3 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #ffffff);
+}
+.cid-rgJio1ivR3 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rgJio1ivR3 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rgJio1ivR3 H2 {
+  color: #ffffff;
 }
 .cid-rf9J436wLb .navbar {
   padding: .5rem 0;
@@ -4025,6 +4040,21 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-rgJiuVGRHL {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #ffffff);
+}
+.cid-rgJiuVGRHL .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rgJiuVGRHL .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rgJiuVGRHL H2 {
+  color: #ffffff;
 }
 .cid-rgIZ8S7pBD .navbar {
   padding: .5rem 0;
